@@ -9,7 +9,7 @@ productRouter.get("/",(req,res)=>{
     
 })
 
-productRouter.post('/add-many-products', (req, res) => {
+productRouter.post('/create-bulk', (req, res) => {
 
     const payload  = req.body;
 
@@ -22,7 +22,8 @@ productRouter.post('/add-many-products', (req, res) => {
     });
     
 })
-productRouter.post("/create",async (req,res)=>{
+productRouter.post("/create-one",async (req,res)=>{
+
 
 
 
@@ -42,14 +43,37 @@ productRouter.post("/create",async (req,res)=>{
     
 
 })
-productRouter.patch("/update:id",(req,res)=>{
-    // const id
-    res.send("Item updated")
+productRouter.put("/update/:id",async (req,res)=>{
+
+    const ID = req.params.id
+    const payload = req.body
+try {
+    await ProductModel.findByIdAndUpdate({id:ID}, payload)
+
+    res.send("product updated ")
+} catch (error) {
+    console.log(error)
+    res.send({"Erorr":"Something went wrong while updating "})
+    }
+
+
+    // res.send("Item updated")
 
 })
-productRouter.delete("/delete:id",(req,res)=>{
+productRouter.delete("/delete:id",async (req,res)=>{
 
-    res.send("deleted")
+    const id = req.params.id
+    // const payload = req.body
+try {
+    await ProductModel.findByIdAndDelete({"id:":id})
+    res.send("product updated ")
+} catch (error) {
+    console.log(error)
+    res.send({"Erorr":"Something went wrong while updating "})
+    }
+
+    
+    res.send("Item updated")
 
 })
 
