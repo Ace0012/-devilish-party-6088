@@ -1,0 +1,347 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/WM3220_021_f?$x1_grid$&v=1671620001",
+      "description": " A high-profile hat built with a breathable mesh.",
+      "title": "Men's Steens Mountain™ 2.0 Full Zip Fleece Jacket",
+      "minimum-sale-price": 17,
+      "maximum-sale-price": 47,
+      "price": 65,
+      "type": "Quick Shop",
+      "rating": " 4.268 out of 5 (123 Customer Reviews)"
+    },
+    {
+      "id": 2,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1639261_028_f?$x1_grid$&v=1671620001",
+      "title": "Men’s Steens Mountain™ Fleece Vest",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 55,
+      "price": 69,
+      "type": "Quick Shop",
+      "rating": "3.862 out of 5 (333 Customer Reviews)"
+    },
+    {
+      "id": 3,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1872853_010_f?$x1_grid$&v=1671620001",
+      "title": "Men's Cascade Peak™ IV Interchange Jacket",
+      "minimum-sale-price": 50,
+      "maximum-sale-price": 70,
+      "price": 100,
+      "type": "Quick Shop",
+      "rating": "4.748 out of 5 (139 Customer Reviews)"
+    },
+    {
+      "id": 4,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1836811_346_f?$x1_grid$&v=1671620001",
+      "title": "PFG Fish Flag™ Mesh Ball Cap - High Crown",
+      "minimum-sale-price": 15,
+      "maximum-sale-price": 55,
+      "price": 80,
+      "type": "Quick Shop",
+      "rating": "4.575 out of 5 (245 Customer Reviews)"
+    },
+    {
+      "id": 5,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM4009_362_f?$x1_grid$&v=1671620001",
+      "title": " Men's PFG Backcast III™ Water Shorts",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 60,
+      "price": 90,
+      "type": "Quick Shop",
+      "rating": "4.56 out of 5 (323 Customer Reviews)"
+    },
+    {
+      "id": 6,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1287051_490_f?$x1_grid$&v=1671620001",
+      "title": " Men’s PFG Tamiami™ II Short Sleeve Shirt",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 50,
+      "price": 60,
+      "type": "Quick Shop",
+      "rating": "4.269 out of 5 (186 Customer Reviews)"
+    },
+    {
+      "id": 7,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1286061_490_f?$x1_grid$&v=1671620001",
+      "title": " Men’s PFG Tamiami™ II Long Sleeve Shirt",
+      "minimum-sale-price": 22,
+      "maximum-sale-price": 56,
+      "price": 86,
+      "type": "Quick Shop",
+      "rating": "4.932 out of 5 (59 Customer Reviews)"
+    },
+    {
+      "id": 8,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM4471_243_f?$x1_grid$&v=1671620001",
+      "title": "Men's Washed Out™ Shorts",
+      "minimum-sale-price": 30,
+      "maximum-sale-price": 90,
+      "price": 120,
+      "type": "Quick Shop",
+      "rating": "3.792 out of 5 (168 Customer Reviews)"
+    },
+    {
+      "id": 9,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/RM2433_433_f?$x1_grid$&v=1671620001",
+      "title": "Men's Watertight™ II Rain Jacket",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 20,
+      "price": 30,
+      "type": "Quick Shop",
+      "rating": "4.623 out of 5 (53 Customer Reviews)"
+    },
+    {
+      "id": 10,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1913121_288_f?$x1_grid$&v=1671620001",
+      "title": "Men's Hyper-Boreal™ Omni-Heat™ Tall Boot",
+      "minimum-sale-price": 40,
+      "maximum-sale-price": 50,
+      "price": 60,
+      "type": "Quick Shop",
+      "rating": "4.809 out of 5 (188 Customer Reviews)"
+    },
+    {
+      "id": 11,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1556531_464_f?$x1_grid$&v=1671620001",
+      "title": "Men’s Ascender™ Softshell Jacket",
+      "minimum-sale-price": 70,
+      "maximum-sale-price": 80,
+      "price": 90,
+      "type": "Quick Shop",
+      "rating": "3.899 out of 5 (89 Customer Reviews)"
+    },
+    {
+      "id": 12,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1864562_452_f?$x1_grid$&v=1671620001",
+      "title": " Men's Lake 22 Down Hooded Jacket",
+      "minimum-sale-price": 100,
+      "maximum-sale-price": 120,
+      "price": 150,
+      "type": "Quick Shop",
+      "rating": "4.393 out of 5 (28 Customer Reviews)"
+    },
+    {
+      "id": 13,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM6094_474_f?$x1_grid$&v=1671620001",
+      "title": " Men’s PFG Terminal Tackle™ Long Sleeve Shirt",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 40,
+      "price": 55,
+      "type": "Quick Shop",
+      "rating": "4.798 out of 5 (89 Customer Reviews)"
+    },
+    {
+      "id": 14,
+      "img": " https://columbia.scene7.com/is/image/ColumbiaSportswear2/1594731_403_f?$x1_grid$&v=1671620001",
+      "title": "Men’s Newton Ridge™ Plus II Waterproof Hiking Boot Men's Flex ROC™ Pants",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 40,
+      "price": 60,
+      "type": "Quick Shop",
+      "rating": "4.835 out of 5 (115 Customer Reviews)"
+    },
+    {
+      "id": 15,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1792581_251_f?$x1_grid$&v=1671620001",
+      "title": "Men's Glennaker Lake™ Rain Jacket",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 85,
+      "price": 145,
+      "type": "Quick Shop",
+      "rating": "4.577 out of 5 (130 Customer Reviews)"
+    },
+    {
+      "id": 16,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1442361_221_f?$x1_grid$&v=1671620001",
+      "title": "Men’s PFG Bahama™ II Short Sleeve Shirt",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 50,
+      "price": 70,
+      "type": "Quick Shop",
+      "rating": "4.745 out of 5 (424 Customer Reviews)"
+    },
+    {
+      "id": 17,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7047_888_f?$x1_grid$&v=1671620001",
+      "description": " Men's Firecamp™ Boot",
+      "title": " Men's Slope Edge™ Jacket",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 50,
+      "price": 100,
+      "type": "Quick Shop",
+      "rating": "4.176 out of 5 (17 Customer Reviews)"
+    },
+    {
+      "id": 18,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2001691_664_f?$x1_grid$&v=1671620001",
+      "title": "Men's Tipton Peak™ II Insulated Jacket",
+      "minimum-sale-price": 19,
+      "maximum-sale-price": 35,
+      "price": 50,
+      "type": "Quick Shop",
+      "rating": "4.787 out of 5 (296 Customer Reviews)"
+    },
+    {
+      "id": 19,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1672881_033_f?$x1_grid$&v=1671620001",
+      "title": "Bora Bora™ II Booney",
+      "minimum-sale-price": 30,
+      "maximum-sale-price": 45,
+      "price": 50,
+      "type": "Quick Shop",
+      "rating": "4.558 out of 5 (120 Customer Reviews)"
+    },
+    {
+      "id": 20,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010091_009_f?$x1_grid$&v=1671620001",
+      "title": "Men's PFG Slack Tide™ Camp Shirt",
+      "minimum-sale-price": 17,
+      "maximum-sale-price": 65,
+      "price": 92,
+      "type": "Quick Shop",
+      "rating": "4.37 out of 5 (173 Customer Reviews)"
+    },
+    {
+      "id": 21,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/CU9107_639_f?$x1_grid$&v=1671620001",
+      "title": "Men's Flow™ Centre Shoe",
+      "minimum-sale-price": 49,
+      "maximum-sale-price": 55,
+      "price": 75,
+      "type": "Quick Shop",
+      "rating": "4.709 out of 5 (110 Customer Reviews)"
+    },
+    {
+      "id": 22,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1577051_873_f?$x1_grid$&v=1671620001",
+      "title": "Men's Penns Creek™ II Parka",
+      "minimum-sale-price": 50,
+      "maximum-sale-price": 80,
+      "price": 100,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 23,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1927821_053_f?$x1_grid$&v=1671620001",
+
+      "title": "Men's Thistletown Hills™ Short Sleeve Shirt",
+      "minimum-sale-price": 30,
+      "maximum-sale-price": 60,
+      "price": 75,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 25,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1864241_009_f?$x1_grid$&v=1671620001",
+      "title": "Men's Silver Ridge™ Cargo Pants",
+      "minimum-sale-price": 30,
+      "maximum-sale-price": 50,
+      "price": 120,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 26,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1990751_023_f?$x1_grid$&v=1671620001",
+      "title": "Men's Newton Ridge™ Plus II Waterproof Hiking Boot - Wide",
+      "minimum-sale-price": 40,
+      "maximum-sale-price": 80,
+      "price": 100,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 27,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM8007_221_f?$x1_grid$&v=1671620001",
+      "title": "Men’s PFG Terminal Tackle™ Hoodie",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 100,
+      "price": 129,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 28,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/1594732_038_f?$x1_grid$&v=1671620001",
+      "title": "Men's Timberturner™ II Ski Jacket",
+      "minimum-sale-price": 59,
+      "maximum-sale-price": 79,
+      "price": 125,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 29,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM6132_350_f?$x1_grid$&v=1671620001",
+      "title": " Men’s Powder Lite™ Hooded Insulated Jacket",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 40,
+      "price": 54,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 30,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/2011251_491_f?$x1_grid$&v=1671620001",
+      "title": "Men’s Hart Mountain™ II Half Zip Sweatshirt",
+      "minimum-sale-price": 40,
+      "maximum-sale-price": 85,
+      "price": 140,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 31,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1693931_371_f?$x1_grid$&v=1671620001",
+      "title": "Men's PFG Grander Marlin™ II Offshore Shorts",
+      "minimum-sale-price": 100,
+      "maximum-sale-price": 250,
+      "price": 300,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 32,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1411621_665_f?$x1_grid$&v=1671620001",
+      "title": "Men's Newton Ridge™ Plus II Suede Waterproof Hiking Boot",
+      "minimum-sale-price": 50,
+      "maximum-sale-price": 80,
+      "price": 120,
+      "type": "Quick Shop",
+      "rating": ""
+    },
+    {
+      "id": 33,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/1580651_348_f?$x1_grid$&v=1671620001",
+      "title": "PFG Fish Flag™ Mesh Snapback - High Crown",
+      "minimum-sale-price": 10,
+      "maximum-sale-price": 50,
+      "price": 57,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 34,
+      "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1746411_384_f?$x1_grid$&v=1671620001",
+      "title": "PFG Hooks™ Mesh Ball Cap - High Crown",
+      "minimum-sale-price": 59,
+      "maximum-sale-price": 89,
+      "price": 99,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    },
+    {
+      "id": 35,
+      "img": "    https://columbia.scene7.com/is/image/ColumbiaSportswear2/1837002_400_f?$x1_grid$&v=1671620001      ",
+      "title": "    PFG Fish Flag™ Mesh Snapback - High Crown",
+      "minimum-sale-price": 20,
+      "maximum-sale-price": 70,
+      "price": 100,
+      "type": "Quick Shop",
+      "rating": "0 out of 5 (0 Customer Reviews)"
+    }
+  ]
+}
