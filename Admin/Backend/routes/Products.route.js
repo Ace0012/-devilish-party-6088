@@ -60,13 +60,14 @@ try {
     // res.send("Item updated")
 
 })
-productRouter.delete("/delete:id",async (req,res)=>{
+productRouter.delete("/delete/:id",async (req,res)=>{
 
     const id = req.params.id
     // const payload = req.body
 try {
-    await ProductModel.findByIdAndDelete({"id:":id})
-    res.send("product updated ")
+    await ProductModel.findByIdAndDelete({_id:id})
+    res.send("product deleted ")
+    
 } catch (error) {
     console.log(error)
     res.send({"Erorr":"Something went wrong while updating "})
