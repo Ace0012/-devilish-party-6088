@@ -1,19 +1,25 @@
 const express = require("express")
 const { connection } = require("./config/db")
 const app= express()
-
-require("dotenv").config()
-
-
+const {adminRouter} = require("./routes/Admin.route")
+const {productRouter} = require("./routes/Products.route")
 
 
-app.use(express.json)
+
+require("dotenv").config();
+
+
+
+
+app.use(express.json())
 
 app.get("/",(req,res)=>{
     res.send("Admin Home Page")
 
 })
-
+app.use("/admin",adminRouter)
+app.use("/admin/products", productRouter)
+// 
 
 app.listen(process.env.port,async ()=>{
     try {
@@ -28,3 +34,5 @@ app.listen(process.env.port,async ()=>{
 
     }
 })
+
+

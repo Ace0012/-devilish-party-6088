@@ -3,8 +3,8 @@ const express=require("express")
 const jwt =require("jsonwebtoken")
 const bcrypt = require('bcrypt');
 const adminRouter = express.Router();
-const {adminModel} = require("../model/Admin.model")
-const {validator} = require("../middlewares/validator")
+const {AdminModel} = require("../model/Admin.model")
+// const {validator} = require("../middlewares/validator")
 
 
 
@@ -17,7 +17,7 @@ adminRouter.get("/",(req,res)=>{
 
 
 
-adminRouter.post("/register",validator,async (req,res)=>{
+adminRouter.post("/register",async (req,res)=>{
     const {email,username,password} = req.body;
     console.log(email)
 
@@ -29,7 +29,7 @@ try {
 
             }
                
-                const admin1 = new adminModel({email,username,password:hash});
+                const admin1 = new AdminModel({email,username,password:hash});
                 await admin1.save()
               
                 console.log(admin1)
@@ -53,7 +53,7 @@ adminRouter.post("/login",async (req,res)=>{
     const {username,password} = req.body;
 
     try {
-        const admin1 = await adminModel.find({username})
+        const admin1 = await AdminModel.find({username})
 
         // console.log(admin1)
         if(admin1.length>0){
